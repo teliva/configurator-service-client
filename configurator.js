@@ -9,4 +9,4 @@ const initConfigurator = (param) => {
     return new Configurator(param);
 };
 
-export { initConfigurator }
+export { initConfigurator };
